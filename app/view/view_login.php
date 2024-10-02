@@ -1,0 +1,1 @@
+<!-- voici le fichier ou l'on configure toute la view de l'utilisateur ici on detaille le code  -->
